@@ -42,7 +42,7 @@ To run these labs, you’ll need:
 
 3.Fix permissions (SSH into your EVE-NG VM):
 
- /opt/unetlab/wrappers/unl_wrapper -a fixpermissions
+   /opt/unetlab/wrappers/unl_wrapper -a fixpermissions
 
 
 4.Open EVE-NG in your browser and start practicing 🚀
